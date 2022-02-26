@@ -4,4 +4,4 @@ Welcome
 ## UX Team Project
 
 ## UX Journal
-[Journal 1 - Smith Machine at In Motion Fitness](../Journal-One)
+[Journal 1 - Smith Machine at In Motion Fitness](./Journal-One)
