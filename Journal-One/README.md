@@ -1,5 +1,10 @@
-## **Journal Entry One - The Smith Machine at In Motion Fitness**
+# **Journal Entry One - The Smith Machine at In Motion Fitness**
 ![alt text](../assets/IMG_0441.jpg)
-# By Adrian Arredondo - 02/25/22
+## By Adrian Arredondo - 02/25/22
 ---
-The smith machine is an important part of any workoutl, and for the most part they all do the same thing. In Motion Fitness has a handful of this paticular modle scattered around their gym 
+The smith machine is an important part of any workout, and In Motion Fitness has a handful of this particular model scattered around their gym and the design is quite simple. The barbell is attached to a bar that only moves up and down, which makes it easier for you to lift as you do not need to stabilize it like you would with a free weight barbell. If you look at the photo, you can see that the barbell is hanging off hooks. To take it off the hooks, you simply need to lift it up slightly, then twist your wrist in order to move the bar further up or down. This makes smith machines quite **error tolerant**, because if you ever need to bail from a rep because of muscle failure. All you need to do is twist the bar to hook it back on to the machine. There is also a yellow blocker attached to the machine which will catch the barbell if you are unable to twist it back onto the hook. To move the blocker, all you need to do is swivel it off the hook then you can move it up or down. Both of these features make the design very **safe**, even if you are working without a spotter.
+
+The **learnability** is high enough to the point where I was able to understand how to use it in less than 5 minutes with the assistance of a friend. The simplicity of the design makes the machine quite **memorable** to the point where I personally haven’t found the need to relearn any of the features.
+
+I have mainly used this machine in order to do upright rows, military presses, and occasionally squats when all of the power racks have been taken up. I have never had a problem doing any of these exercises so I would say that the design is **efficient**. Moving the barbell up and down makes a paticularly satisfying sound which adds to the **satisfaction** of the entire design. With everything consdiered, I would rate the user experience of this paticular smith machine 10/10.
+
