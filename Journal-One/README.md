@@ -6,5 +6,5 @@ The smith machine is an important part of any workout, and In Motion Fitness has
 
 The **learnability** is high enough to the point where I was able to understand how to use it in less than 5 minutes with the assistance of a friend. The simplicity of the design makes the machine quite **memorable** to the point where I personally haven’t found the need to relearn any of the features.
 
-I have mainly used this machine in order to do upright rows, military presses, and occasionally squats when all of the power racks have been taken up. I have never had a problem doing any of these exercises so I would say that the design is **efficient**. Moving the barbell up and down makes a paticularly satisfying sound which adds to the **satisfaction** of the entire design. With everything consdiered, I would rate the user experience of this paticular smith machine 10/10.
+I have mainly used this machine in order to do upright rows, military presses, and occasionally squats when all of the power racks have been taken up. I have never had a problem doing any of these exercises so I would say that the design is **efficient**. Moving the barbell up and down makes a paticularly satisfying sound which adds to the **satisfaction** of the entire design. With everything considered, I would rate the user experience of this paticular smith machine 10/10.
 
