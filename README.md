@@ -4,4 +4,6 @@ Welcome
 ## UX Team Project
 
 ## UX Journal
-[Journal 1 - Smith Machine at In Motion Fitness](./Journal-One)
+[Journal one - Smith Machine at In Motion Fitness](./Journal-One)
+
+[Journal Entry Two - AirPods Pro by Apple](./Journal-Two)
