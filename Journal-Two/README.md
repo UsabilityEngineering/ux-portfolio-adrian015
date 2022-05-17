@@ -2,10 +2,6 @@
 ![alt text](../assets/airPodPros.jpeg)
 ## By Adrian Arredondo - 04/15/22
 ---
-# **Journal Entry Two - AirPods Pro by Apple**
-![alt text](../assets/IMG_0441.jpg)
-## By Adrian Arredondo - 04/15/22
----
 The AirPods Pro, first released in late 2019, is Apple's first wireless in-ear headphones and has quickly become one of my most frequently used devices. Like most products that Apple makes, the physical design of the case and earbuds are quite good. An all-white plastic case with a metal hinge that feels satisfying to snap open and close, and a pair of earbuds that look like the original Airpods, except with a bent stem and silicone tips, that also snap into place in the case. The earbuds themselves also feel high quality and for the most part, fit well into my ears and don’t irritate them either. 
 
 The main reason why I bought them was that my AirPods 2 were starting to show wear and tear and because I wanted something with noise cancelation. Ambient noises such as wind, fans, and traffic bother me when I'm trying to focus, so I wanted something to block out those sounds, and the AirPods Pro work amazingly in this regard. This brings me to a problem that has annoyed me since I bought them, which is the **visibility of system status**, or how much feedback a product gives back to the user, of the three different noise control options. Let’s say you wanted to change the noise control setting to noise-canceling, then you would simply hold down on the stem. Doing this would switch to the next setting, and while there is haptic feedback for letting you know that the mode has changed, there is no way to tell which setting you changed it to. And in low noise areas, it can be difficult to tell which setting you're on, which leads me to have to tell by the ambient noise if they’re in transparency mode, noise-canceling, or normal.
